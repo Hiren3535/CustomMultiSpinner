@@ -1,3 +1,5 @@
+#Custom Multi Selection Spinner
+
 1) Add this to Project Level Gradle (build.gradle(Module: app))
       ```java
         allprojects {
