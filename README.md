@@ -1,10 +1,10 @@
 1) Add this to Project Level Gradle (build.gradle(Module: app))
       ```java
         allprojects {
-        repositories {
-          ...
-          maven { url 'https://jitpack.io' }
-          }
+            repositories {
+                  ...
+                  maven { url 'https://jitpack.io' }
+            }
         }
 2)  In Same file
 
@@ -54,6 +54,6 @@
                 //CustomAdapter.ImageAdapter adapter= new CustomAdapter.ImageAdapter(MainActivity.this,items,"Select State",tv);
             }
         });
-        }
+   }
 
 
