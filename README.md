@@ -54,6 +54,6 @@
                 //CustomAdapter.ImageAdapter adapter= new CustomAdapter.ImageAdapter(MainActivity.this,items,"Select State",tv);
             }
         });
-   }
+        }
 
 
